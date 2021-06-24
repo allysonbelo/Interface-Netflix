@@ -4,13 +4,15 @@ $('.owl-carousel').owlCarousel({
     nav:false,
     responsive:{
         0:{
-            items:1.5
+            items:2.5
         },
         600:{
             items:3.5
         },
         1000:{
-            items:4.6
+            items:6.6
         }
     }
 })
+
+//Menu hamburguer
