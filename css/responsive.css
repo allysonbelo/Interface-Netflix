@@ -10,13 +10,17 @@
     }
 
     .botao-play{
-        margin-top: 5px;
+        margin-top: 20px;
         width: 250px;
     }
 
     .botao-info{
         margin-top: 5px;
         width: 250px;
+    }
+
+    .descricao{
+        margin-top: 20px;
     }
 
     .video-banner{
